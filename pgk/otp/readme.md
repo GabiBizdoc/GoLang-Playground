@@ -33,3 +33,5 @@ func main() {
 	fmt.Println(token)
 }
 ```
+link example
+otpauth://totp/application%20name?secret=123456567890&issuer=12323123123&algorithm=SHA1&digits=8&period=60
